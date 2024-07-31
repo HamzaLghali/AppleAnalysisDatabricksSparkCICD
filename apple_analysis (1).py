@@ -72,3 +72,8 @@ name = "secondWorkFlow"
 
 workFlowrunner = WorkFlowRunner(name).runner()
 
+
+# COMMAND ----------
+
+for stream in spark.streams.active:
+    stream.stop()
