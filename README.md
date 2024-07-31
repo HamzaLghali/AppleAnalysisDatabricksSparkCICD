@@ -86,4 +86,4 @@ In this project, Databricks and PySpark are utilized to build and manage ETL pip
 - **Delta Tables**:
   - Leverages ACID transactions and scalable metadata handling.
  
-@author: Hamza Lghali
+- [@hamzalghali](https://github.com/HamzaLghali)
